@@ -1,4 +1,8 @@
 hello
 hi
 
-dlrj qusrudtkgkd dho dksEmsh
+네번째 줄 지웠음
+
+hello git
+
+hello world
